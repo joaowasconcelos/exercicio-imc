@@ -1,0 +1,35 @@
+    *{ margin: 0%; padding: 0%; box-sizing: border-box;}
+body{
+    background-color: rgba(228, 202, 202, 0.716);
+    
+}
+#descExercicio{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    border: 2px solid rgb(198, 66, 66);
+    width: 430px;
+    height: auto;
+    color: rgb(0, 0, 0);
+    margin: 2%;
+    top: 15%;
+    position: absolute;
+    
+}
+
+#texto{
+    position: relative;
+    justify-content: center;
+    left: 40%;
+    height: 50px;
+    width: 390px;
+   font-weight: bold;
+   text-transform: uppercase;
+   
+
+   
+}
+#teste{
+    position: absolute;
+    left: 40%;
+    top: 15%;
+}
